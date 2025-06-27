@@ -1,0 +1,43 @@
+# Maven
+/target/
+/**/target/
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.sw?
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+*.log
+*.tmp
+*.bak
+
+# Java
+*.class
+
+# Test outputs
+/test-output/
+
+# MacOS Finder
+._*
+
+# Eclipse (si jamais ouvert)
+/bin/
+/.settings/
+/.classpath
+.project
+
+# JetBrains
+out/
+
+# Build artifacts
+*.jar
+*.war
+*.ear
