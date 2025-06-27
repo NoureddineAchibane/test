@@ -8,7 +8,7 @@
         <artifactId>skypay-technical-tests</artifactId>
         <version>1.0.0</version>
     </parent>
-    <artifactId>hotel-reservation</artifactId> <!-- ou hotel-reservation -->
+    <artifactId>hotel-reservation</artifactId>
     <packaging>jar</packaging>
     <name>Banking Service</name>
     <properties>
